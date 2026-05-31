@@ -1,0 +1,6 @@
+{
+  "name": "IDCODE Nigeria - Verification Suite",
+  "description": "Frontend portal for generating Identity, Access, and Product Verification cards with secure QR codes and unique activation codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
